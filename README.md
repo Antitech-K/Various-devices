@@ -1,1 +1,2 @@
-# Various-devices
+hub-samart - проверка смарт-хаба
+wt50 - блютус термометр
